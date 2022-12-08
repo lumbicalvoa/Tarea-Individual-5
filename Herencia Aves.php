@@ -30,7 +30,7 @@ class Animal{
   class Perro extends Mamifero{
     Perro (){}
     void ladra (){
-      System.out.println ("RRRRR");
+      echo ("RRRRR");
     }
   }
    
